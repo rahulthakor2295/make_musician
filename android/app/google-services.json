@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "222167360217",
+    "project_id": "ecommerceflutter-47dfb",
+    "storage_bucket": "ecommerceflutter-47dfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222167360217:android:d006306b220598312ed4c8",
+        "android_client_info": {
+          "package_name": "com.e_truck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222167360217-m6dnh2iupafavec197s2q1mjvnvf81cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e_truck",
+            "certificate_hash": "f26dccd5654c42f44de5279e3ccd5718d45d146b"
+          }
+        },
+        {
+          "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpP9motUcR1q4QGiHYyCUeZdw7_lwMio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222167360217-0jke1n3jc5cmpgfikuum9umb8bdc0i9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeMusician"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222167360217:android:d66dd562cb2890552ed4c8",
+        "android_client_info": {
+          "package_name": "com.example.e_truck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222167360217-kukmn7ekqki83988hpl582qltkm4k7bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_truck",
+            "certificate_hash": "f26dccd5654c42f44de5279e3ccd5718d45d146b"
+          }
+        },
+        {
+          "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpP9motUcR1q4QGiHYyCUeZdw7_lwMio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222167360217-0jke1n3jc5cmpgfikuum9umb8bdc0i9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeMusician"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222167360217:android:b190dab9c4c755cd2ed4c8",
+        "android_client_info": {
+          "package_name": "com.example.make_musician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpP9motUcR1q4QGiHYyCUeZdw7_lwMio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222167360217-lv5i5o4oo5qfaj9jk6s47040tujfais0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222167360217-0jke1n3jc5cmpgfikuum9umb8bdc0i9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeMusician"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
